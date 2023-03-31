@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{dbc26e74-9289-6971-945c-42242a8c2e6f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xlua.Core", "Xlua.Core.csproj", "{f20347dc-5138-43f1-36f9-fb169dcd6071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{ccdf704d-cc41-bc72-9e61-67988a818aa6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xlua.Core.Editor", "Xlua.Core.Editor.csproj", "{51ab315f-2fb5-0d97-8453-d28e2344083c}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{dbc26e74-9289-6971-945c-42242a8c2e6f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{dbc26e74-9289-6971-945c-42242a8c2e6f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f20347dc-5138-43f1-36f9-fb169dcd6071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f20347dc-5138-43f1-36f9-fb169dcd6071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ccdf704d-cc41-bc72-9e61-67988a818aa6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ccdf704d-cc41-bc72-9e61-67988a818aa6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51ab315f-2fb5-0d97-8453-d28e2344083c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51ab315f-2fb5-0d97-8453-d28e2344083c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
